@@ -1,1 +1,1 @@
-# -test-case-loom__homework
+# Чек-лист функционала сайта и 3 тест-кейса сайта "https://www.loom.com"
